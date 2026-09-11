@@ -1,9 +1,9 @@
 # DATA
 ASSESSING EXPOSURE OF EASTERN NORTH AMERICAN LANDBIRDS TO CLIMATE AND LAND USE CHANGE
 
-All raster data for this study is stored in separate respositories on Figshare. The full repository can be found here: 
+All input and output data for this study is stored in separate respositories on Figshare due to storage and file number constraints. The full repository can be found here: 
 
-https://figshare.com/s/4e4434ddbe2e26ca70bd
+_____
 
 ## Species List Data (input)
 The full list of 218 species with >0.01% of maximum relative abundance globally is provided in the _species_list.csv_ file within this folder. For each species the data includes: common name, 6-letter species code, family, habitat, ecological guild, and the proportion in the east. 
