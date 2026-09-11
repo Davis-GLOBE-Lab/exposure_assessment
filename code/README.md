@@ -1,7 +1,7 @@
 
-##SCRIPTS
+## SCRIPTS
 
-###1_Max_abd_raster.R
+1_Max_abd_raster.R
 
 This script downloads the 2022 version of eBird Data Products and produces a map of year-round maximum relative abundance for each species for just the Eastern United States. All the species maps produced by this workflow can be found on our figshare repository in the species_max_abundance_maps folder. The second part of this script runs through a list of all species on ebirdst and calculates the proportion of their global maximum relative abundance which occurs in the Eastern U.S.
 
@@ -13,7 +13,7 @@ This script downloads the 2022 version of eBird Data Products and produces a map
     CSV file of the percent of global max abundance which occurs in the Eastern U.S. for each  
     species
 
-###2_Community_raster_builder.R
+### 2_Community_raster_builder.R
 
 This script collects the species maximum abundance maps, aligns them with climate velocity and/or changes in LULC, calculates the CEI/LEI for each species, creates and saves species-specific impact maps for each species, and creates a community-wide exposure map for the selected scenario. The loop also outputs a CSV file with each species and its CEI and LEI for that scenario.
 
@@ -30,7 +30,7 @@ This script collects the species maximum abundance maps, aligns them with climat
     Raster of species specific exposure map for LULC change for selected scenario
     CSV file with the CEI and LEI for each species
 
-###3_Impact_mapper.R
+### 3_Impact_mapper.R
 
 This script loads files calculated by the community_raster_builder.r to map total effect of climate and LULC change exposure on Eastern Landbirds, as well as map the species-specific effect of climate change.
 
@@ -42,7 +42,7 @@ This script loads files calculated by the community_raster_builder.r to map tota
     Figure 1 (Species-level exposure map for CEI and LEI for Wood Thrush)
     Figure 3 (Community-level exposure map for CEI and LEI)
 
-###4_glm_model.R
+### 4_glm_model.R
 
 Uses data frames calculated by the community_raster_builder.r script to analyze patterns in CEI between groups of species using a log-adjusted generalized linear model (GLM).
 
@@ -55,7 +55,7 @@ Uses data frames calculated by the community_raster_builder.r script to analyze 
     Supplemental model diagnostic figures
     Table S2, S3, S4
 
-###4.1_diagnostic_tests.R
+### 4.1_diagnostic_tests.R
 
 Compares 3 model families (gaussian linear, log-transformed linear, and gamma) for CEI and 2 model families (gaussian linear, beta) for LEI using DHARMa model diagnostics.
 
@@ -66,7 +66,7 @@ Compares 3 model families (gaussian linear, log-transformed linear, and gamma) f
     Plots of diagnostics figures (Figures S3-S10)
 
 
-###4.2_alt_model_w_order.R
+### 4.2_alt_model_w_order.R
 
 Uses data frames calculated by the community_raster_builder.r script to analyze differences in climate/LULC change exposure between groups of species using a linear model. This shows results for an alternative model with delta_AIC<2 but not the best model overall. This model includes lat, long, habitat, and order.
 
@@ -77,7 +77,7 @@ Uses data frames calculated by the community_raster_builder.r script to analyze 
      Figures S12-S13: Predictive plots showing modeled relationships for alternate linear model
 
 
-###4.3_alt_model_w_guild.R
+### 4.3_alt_model_w_guild.R
 
 Uses data frames calculated by the community_raster_builder.r script to analyze differences in climate/LULC change exposure between groups of species using a linear model. This shows results for an alternative model with delta_AIC<2 but not the best model overall. This model includes lat, long, and guild.
 
@@ -87,7 +87,7 @@ Uses data frames calculated by the community_raster_builder.r script to analyze 
     OUTPUT: 
     Figures S14-S15: Predictive plots showing modeled relationships for alternate linear model
 
-###4.4_coefficient_estimates.R
+### 4.4_coefficient_estimates.R
 
 Uses data frames calculated by the community_raster_builder.r script to calculate coefficient estimates for all models with substantial support. 
 
@@ -97,7 +97,7 @@ Uses data frames calculated by the community_raster_builder.r script to calculat
     OUTPUT: 
     Table S5
 
-###5_appendix_figures.R
+### 5_appendix_figures.R
 
 This script creates a handful of miscellaneous figures, as well as calculates some of the information relevant for each plot (i.e. R^2 values).
 
