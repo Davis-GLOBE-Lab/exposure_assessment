@@ -1,7 +1,7 @@
 # DATA
 ASSESSING EXPOSURE OF EASTERN NORTH AMERICAN LANDBIRDS TO CLIMATE AND LAND USE CHANGE
 
-All input and output data for this study is stored in separate respositories on Figshare due to storage and file number constraints. The full repository can be found here: 
+All input and output data for this study is stored in separate respositories on Figshare due to storage and file number constraints. The full repository can be found here: https://doi.org/10.6084/m9.figshare.31567279
 
 _____
 
