@@ -1,0 +1,219 @@
+"X","species_name","species_code","family","habitat","guild","year","proportion_in_east","mean_longitude","mean_latitude","CEI_ssp2_2050","LEI_ssp2_2050","CEI_ssp5_2050","LEI_ssp5_2050","CEI_ssp2_2080","LEI_ssp2_2080","CEI_ssp5_2080","LEI_ssp5_2080"
+1,"Greater Prairie-Chicken","grpchi","Phasianidae","Grasslands","Ground Forager",2022,0.001,-89.444,43.205,3.836,0.456,4.26,0.472,3.281,0.496,5.355,0.515
+2,"White-winged Dove","whwdov","Columbidae","Urban","Ground Forager",2022,0.001,-81.8,27.414,2.393,0.477,3.018,0.46,2.571,0.56,3.195,0.601
+3,"Eurasian Collared-Dove","eucdov","Columbidae","Urban","Ground Forager",2022,0.001,-85.931,33.116,2.521,0.312,3.004,0.294,2.483,0.355,3.699,0.382
+4,"Long-eared Owl","loeowl","Strigidae","Forests","Mammal Hunter",2022,0.001,-76.374,44.929,3.164,0.154,4.884,0.144,3.78,0.187,5.274,0.181
+5,"Scissor-tailed Flycatcher","sctfly","Tyrannidae","Grasslands","Flycatcher",2022,0.001,-83.94,30.075,2.092,0.425,2.374,0.315,2.026,0.584,3.058,0.56
+6,"Golden Eagle","goleag","Accipitridae","Grasslands","Mammal Hunter",2022,0.002,-81.872,41.209,3.066,0.183,4.057,0.17,3.278,0.201,5.332,0.216
+7,"Sharp-tailed Grouse","shtgro","Phasianidae","Grasslands","Ground Forager",2022,0.002,-85.698,46.275,2.473,0.382,3.035,0.329,2.384,0.431,5.116,0.491
+8,"Snail Kite","snakit","Accipitridae","Marshes","Aquatic Invertebrate Hunter",2022,0.002,-80.855,26.734,2.357,0.258,2.658,0.224,2.301,0.324,2.854,0.346
+9,"Mangrove Cuckoo","mancuc","Cuculidae","Forests","Foliage Gleaner",2022,0.002,-81.269,25.584,2.274,0.096,2.737,0.12,2.427,0.113,2.266,0.185
+10,"Cave Swallow","cavswa","Hirundinidae","Grasslands","Aerial Insectivore",2022,0.002,-80.407,26.65,1.599,0.249,1.643,0.279,1.505,0.301,3.053,0.411
+11,"Lark Sparrow","larspa","Passerellidae","Grasslands","Ground Forager",2022,0.002,-89.299,38.987,2.851,0.302,3.458,0.3,2.789,0.347,4.554,0.394
+12,"Antillean Nighthawk","antnig","Caprimulgidae","Grasslands","Aerial Insectivore",2022,0.003,-81.252,24.701,3.935,0.117,4.408,0.117,3.601,0.119,2.536,0.117
+13,"Spot-breasted Oriole","spbori","Icteridae","Urban","Foliage Gleaner",2022,0.003,-80.266,25.864,1.092,0.084,2.449,0.083,1.89,0.084,4.07,0.084
+14,"Spruce Grouse","sprgro","Phasianidae","Forests","Ground Forager",2022,0.003,-74.743,46.019,3.688,0.029,5.145,0.027,3.945,0.03,6.332,0.028
+15,"Black-whiskered Vireo","bkwvir","Vireonidae","Forests","Foliage Gleaner",2022,0.004,-81.039,25.115,2.588,0.058,3.1,0.057,2.619,0.072,2.369,0.097
+16,"Common Raven","comrav","Corvidae","Forests","Generalist",2022,0.005,-79.121,43.381,2.758,0.151,3.734,0.133,2.936,0.167,5.166,0.175
+17,"Prairie Falcon","prafal","Falconidae","Grasslands","Bird Hunter",2022,0.005,-88.106,40.523,2.833,0.051,3.536,0.057,2.944,0.053,4.811,0.073
+18,"Nanday Parakeet","bkhpar","Psittacidae","Urban","Foliage Gleaner",2022,0.005,-82.519,27.585,2.528,0.198,2.616,0.205,2.255,0.206,2.94,0.215
+19,"Bank Swallow","banswa","Hirundinidae","Riparian","Aerial Insectivore",2022,0.006,-85.911,39.012,2.305,0.323,2.956,0.324,2.379,0.368,4.058,0.417
+20,"Canada Jay","gryjay","Corvidae","Forests","Generalist",2022,0.006,-71.399,46.039,3.857,0.014,5.756,0.013,4.414,0.014,6.539,0.014
+21,"Ring-necked Pheasant","rinphe1","Phasianidae","Grasslands","Ground Forager",2022,0.007,-88.601,41.729,2.939,0.229,3.73,0.243,3.052,0.255,5.038,0.3
+22,"Bohemian Waxwing","bohwax","Bombycillidae","Forests","Foliage Gleaner",2022,0.007,-83.663,45.999,2.725,0.188,3.48,0.166,2.665,0.2,4.652,0.2
+23,"Black-backed Woodpecker","bkbwoo","Picidae","Forests","Bark Forager",2022,0.007,-72.425,46.014,3.791,0.012,5.704,0.011,4.379,0.012,6.532,0.011
+24,"Boreal Chickadee","borchi2","Paridae","Forests","Foliage Gleaner",2022,0.007,-70.24,46.058,4.233,0.01,6.259,0.01,4.797,0.011,6.835,0.01
+25,"Gray Kingbird","grykin","Tyrannidae","Open Woodlands","Flycatcher",2022,0.007,-81.135,26.185,1.549,0.124,2.093,0.119,1.687,0.139,2.359,0.15
+26,"Barn Swallow","barswa","Hirundinidae","Grasslands","Aerial Insectivore",2022,0.008,-82.59,36.878,2.425,0.331,3.01,0.3,2.437,0.392,3.822,0.429
+27,"Clay-colored Sparrow","clcspa","Passerellidae","Scrub","Foliage Gleaner",2022,0.009,-89.138,44.625,3.052,0.324,3.921,0.334,3.084,0.378,5.131,0.445
+28,"Rock Pigeon","rocpig","Columbidae","Urban","Ground Forager",2022,0.009,-82.926,40.986,2.697,0.363,3.46,0.357,2.772,0.417,4.541,0.469
+29,"House Sparrow","houspa","Passeridae","Urban","Ground Forager",2022,0.011,-84.651,40.889,2.876,0.332,3.553,0.343,2.858,0.376,4.748,0.437
+30,"Brewer's Blackbird","brebla","Icteridae","Urban","Ground Forager",2022,0.011,-89.348,36.238,2.753,0.286,3.203,0.277,2.517,0.325,4.104,0.361
+31,"American Goshawk","norgos","Accipitridae","Forests","Bird Hunter",2022,0.012,-77.289,45.792,3.132,0.055,4.405,0.049,3.396,0.057,5.735,0.055
+32,"Peregrine Falcon","perfal","Falconidae","Generalist","Bird Hunter",2022,0.013,-80.255,34.675,1.752,0.223,2.237,0.214,1.799,0.262,2.857,0.286
+33,"Short-tailed Hawk","shthaw","Accipitridae","Forests","Bird Hunter",2022,0.014,-80.945,26.204,1.53,0.262,2.004,0.254,1.729,0.353,2.788,0.414
+34,"Lapland Longspur","laplon","Calcariidae","Grasslands","Ground Forager",2022,0.014,-87.808,40.299,3.204,0.15,3.847,0.163,3.102,0.164,5.079,0.205
+35,"LeConte's Sparrow","lecspa","Passerellidae","Grasslands","Ground Forager",2022,0.015,-89.845,36.835,2.575,0.235,3.117,0.234,2.44,0.262,4.133,0.298
+36,"Wilson's Warbler","wlswar","Parulidae","Scrub","Foliage Gleaner",2022,0.016,-83.595,42.331,2.639,0.326,3.387,0.333,2.687,0.371,4.681,0.425
+37,"Bell's Vireo","belvir","Vireonidae","Scrub","Foliage Gleaner",2022,0.018,-88.535,39.189,2.822,0.366,3.457,0.361,2.841,0.399,5.3,0.442
+38,"Pine Grosbeak","pingro","Fringillidae","Open Woodlands","Foliage Gleaner",2022,0.02,-79.604,45.896,3.232,0.082,4.406,0.072,3.394,0.086,5.773,0.087
+39,"Mississippi Kite","miskit","Accipitridae","Open Woodlands","Flycatcher",2022,0.021,-85.143,32.881,2.721,0.333,3.175,0.276,2.585,0.378,3.19,0.389
+40,"Red Crossbill","redcro","Fringillidae","Forests","Foliage Gleaner",2022,0.021,-77.625,43.981,2.578,0.074,3.59,0.077,2.84,0.083,5.486,0.098
+41,"Snow Bunting","snobun","Calcariidae","Grasslands","Ground Forager",2022,0.023,-81.814,43.946,2.95,0.261,4.104,0.248,3.276,0.291,5.319,0.321
+42,"Rough-legged Hawk","rolhaw","Accipitridae","Grasslands","Mammal Hunter",2022,0.023,-87.106,43.273,2.987,0.261,3.771,0.255,2.996,0.296,4.996,0.333
+43,"Cliff Swallow","cliswa","Hirundinidae","Riparian","Aerial Insectivore",2022,0.024,-87.945,37.63,2.77,0.3,3.355,0.274,2.691,0.35,4.225,0.388
+44,"European Starling","eursta","Sturnidae","Urban","Generalist",2022,0.024,-83.462,39.111,2.758,0.366,3.392,0.334,2.729,0.439,4.285,0.476
+45,"Common Redpoll","comred","Fringillidae","Open Woodlands","Foliage Gleaner",2022,0.025,-83.561,45.022,3.092,0.181,4.114,0.18,3.209,0.208,5.52,0.237
+46,"Orange-crowned Warbler","orcwar","Parulidae","Forests","Foliage Gleaner",2022,0.026,-86.037,36.105,2.715,0.332,3.288,0.304,2.606,0.381,3.959,0.412
+47,"Vesper Sparrow","vesspa","Passerellidae","Grasslands","Ground Forager",2022,0.027,-85.636,38.6,2.977,0.309,3.585,0.284,2.87,0.349,4.243,0.377
+48,"Olive-sided Flycatcher","olsfly","Tyrannidae","Forests","Flycatcher",2022,0.028,-80.723,43.728,2.939,0.184,3.996,0.183,3.144,0.211,5.28,0.241
+49,"American Pipit","amepip","Motacillidae","Tundra","Ground Forager",2022,0.03,-82.736,38.377,2.544,0.357,3.134,0.327,2.544,0.425,3.685,0.465
+50,"White-crowned Sparrow","whcspa","Passerellidae","Scrub","Ground Forager",2022,0.031,-84.514,41.264,2.972,0.301,3.701,0.286,2.949,0.348,4.824,0.386
+51,"White-winged Crossbill","whwcro","Fringillidae","Forests","Foliage Gleaner",2022,0.031,-80.756,45.653,3.099,0.082,4.18,0.077,3.217,0.09,5.574,0.096
+52,"Common Ground Dove","cogdov","Columbidae","Scrub","Ground Forager",2022,0.035,-82.256,28.842,2.152,0.393,2.588,0.362,2.38,0.47,2.882,0.514
+53,"Horned Lark","horlar","Alaudidae","Grasslands","Ground Forager",2022,0.037,-85.251,40.498,3.112,0.257,3.792,0.263,3.057,0.294,5.033,0.35
+54,"Tree Swallow","treswa","Hirundinidae","Generalist","Aerial Insectivore",2022,0.037,-79.565,35.839,1.882,0.273,2.36,0.292,1.909,0.333,2.831,0.412
+55,"Painted Bunting","paibun","Icteridae","Scrub","Ground Forager",2022,0.039,-82.846,31.452,2.189,0.318,2.59,0.294,2.165,0.362,2.803,0.387
+56,"Northern Shrike","norshr4","Laniidae","Open Woodlands","Bird Hunter",2022,0.04,-84.815,44.85,3.02,0.235,3.962,0.231,3.089,0.27,5.293,0.306
+57,"Lincoln's Sparrow","linspa","Passerellidae","Scrub","Ground Forager",2022,0.041,-83.208,41.681,2.734,0.291,3.489,0.287,2.786,0.335,4.792,0.382
+58,"Black Vulture","blkvul","Cathartidae","Generalist","Scavenger",2022,0.042,-83.191,33.576,2.308,0.386,2.722,0.305,2.217,0.472,2.984,0.481
+59,"Merlin","merlin","Falconidae","Forests","Bird Hunter",2022,0.042,-80.177,39.414,2.33,0.252,3.066,0.242,2.437,0.291,3.992,0.319
+60,"Nelson's Sparrow","nstspa","Passerellidae","Marshes","Ground Forager",2022,0.043,-83.466,37.735,2.174,0.198,2.593,0.193,2.023,0.226,3.103,0.246
+61,"White-crowned Pigeon","whcpig2","Columbidae","Forests","Foliage Gleaner",2022,0.044,-80.996,25.042,2.326,0.089,2.811,0.085,2.361,0.119,2.324,0.147
+62,"Snowy Owl","snoowl1","Strigidae","Tundra","Mammal Hunter",2022,0.044,-85.938,42.405,2.967,0.153,3.757,0.161,3.007,0.172,4.801,0.215
+63,"Short-eared Owl","sheowl","Strigidae","Grasslands","Mammal Hunter",2022,0.047,-86.69,40.089,2.846,0.229,3.556,0.221,2.918,0.258,5.112,0.285
+64,"Yellow-bellied Flycatcher","yebfly","Tyrannidae","Forests","Flycatcher",2022,0.048,-79.368,43.904,3.116,0.144,4.227,0.138,3.312,0.162,5.703,0.178
+65,"Connecticut Warbler","conwar","Parulidae","Forests","Ground Forager",2022,0.05,-81.932,41.067,2.659,0.399,3.18,0.424,2.515,0.445,4.094,0.502
+66,"Loggerhead Shrike","logshr","Laniidae","Open Woodlands","Bird Hunter",2022,0.051,-83.122,31.079,2.327,0.419,2.763,0.376,2.392,0.5,2.929,0.532
+67,"Grasshopper Sparrow","graspa","Passerellidae","Grasslands","Ground Forager",2022,0.055,-82.329,38.269,2.342,0.39,2.869,0.308,2.311,0.483,3.664,0.489
+68,"Northern Saw-whet Owl","nswowl","Strigidae","Forests","Mammal Hunter",2022,0.06,-79.206,44.473,2.945,0.093,4.048,0.092,3.156,0.105,5.609,0.119
+69,"Broad-winged Hawk","brwhaw","Accipitridae","Forests","Mammal Hunter",2022,0.061,-81.714,40.533,2.193,0.261,2.791,0.234,2.242,0.297,4.052,0.316
+70,"Bald Eagle","baleag","Accipitridae","Forests","Fish Hunter",2022,0.064,-83.87,40.225,2.447,0.288,3.091,0.279,2.463,0.334,4.16,0.378
+71,"American Kestrel","amekes","Falconidae","Grasslands","Mammal Hunter",2022,0.067,-82.695,37.537,2.579,0.329,3.218,0.29,2.588,0.388,3.992,0.416
+72,"Dickcissel","dickci","Cardinalidae","Grasslands","Ground Forager",2022,0.068,-88.706,39.029,2.929,0.264,3.516,0.267,2.824,0.298,4.737,0.343
+73,"Alder Flycatcher","aldfly","Tyrannidae","Scrub","Flycatcher",2022,0.073,-79.562,44.258,2.84,0.172,3.872,0.163,3.038,0.191,5.426,0.21
+74,"House Wren","houwre","Troglodytidae","Scrub","Ground Forager",2022,0.074,-83.73,38.267,2.678,0.327,3.318,0.314,2.664,0.378,4.182,0.424
+75,"Turkey Vulture","turvul","Cathartidae","Generalist","Scavenger",2022,0.075,-82.639,35.8,2.432,0.323,2.977,0.281,2.427,0.381,3.671,0.409
+76,"Gray-cheeked Thrush","gycthr","Turdidae","Forests","Ground Forager",2022,0.076,-84.696,37.933,2.525,0.311,3.06,0.264,2.466,0.359,3.988,0.379
+77,"Savannah Sparrow","savspa","Passerellidae","Grasslands","Ground Forager",2022,0.085,-83.596,36.859,2.542,0.352,3.116,0.319,2.499,0.415,3.671,0.449
+78,"Pine Siskin","pinsis","Fringillidae","Forests","Foliage Gleaner",2022,0.086,-77.924,42.013,2.457,0.201,3.311,0.186,2.6,0.231,4.319,0.249
+79,"Northern Waterthrush","norwat","Parulidae","Forests","Ground Forager",2022,0.087,-81.97,40.18,2.629,0.28,3.384,0.272,2.682,0.324,4.461,0.366
+80,"Fox Sparrow","foxspa","Passerellidae","Forests","Ground Forager",2022,0.089,-84.036,40.188,2.714,0.293,3.359,0.271,2.665,0.341,4.403,0.378
+81,"Northern Harrier","norhar2","Accipitridae","Grasslands","Mammal Hunter",2022,0.094,-84.605,38.057,2.685,0.31,3.303,0.285,2.655,0.364,4.266,0.397
+82,"Swallow-tailed Kite","swtkit","Accipitridae","Forests","Flycatcher",2022,0.095,-82.388,30.011,2.18,0.392,2.632,0.306,2.284,0.462,2.924,0.471
+83,"Yellow Warbler","yelwar","Parulidae","Open Woodlands","Foliage Gleaner",2022,0.096,-81.939,41.24,2.636,0.333,3.422,0.323,2.737,0.385,4.612,0.435
+84,"Warbling Vireo","warvir","Vireonidae","Open Woodlands","Foliage Gleaner",2022,0.097,-83.061,41.251,2.728,0.349,3.47,0.349,2.78,0.4,4.731,0.457
+85,"Marsh Wren","marwre","Troglodytidae","Marshes","Ground Forager",2022,0.1,-82.906,37.879,2.445,0.338,3.08,0.309,2.411,0.404,3.598,0.424
+86,"Great Horned Owl","grhowl","Strigidae","Forests","Mammal Hunter",2022,0.101,-83.301,38.717,2.518,0.344,3.138,0.319,2.519,0.403,3.971,0.446
+87,"Least Flycatcher","leafly","Tyrannidae","Forests","Flycatcher",2022,0.102,-81.376,42.882,2.8,0.22,3.716,0.216,2.947,0.249,5.164,0.282
+88,"House Finch","houfin","Fringillidae","Open Woodlands","Ground Forager",2022,0.104,-82.329,39.246,2.501,0.419,3.074,0.404,2.483,0.496,3.856,0.55
+89,"Ruffed Grouse","rufgro","Phasianidae","Forests","Ground Forager",2022,0.113,-80.721,44.882,3.071,0.09,4.119,0.081,3.213,0.099,5.766,0.106
+90,"Eastern Kingbird","easkin","Tyrannidae","Grasslands","Flycatcher",2022,0.119,-83.471,36.484,2.708,0.308,3.337,0.278,2.622,0.363,3.882,0.395
+91,"American Tree Sparrow","amtspa","Passerellidae","Open Woodlands","Ground Forager",2022,0.123,-85.154,42.066,2.969,0.293,3.731,0.298,2.988,0.333,5.069,0.386
+92,"Sharp-shinned Hawk","shshaw","Accipitridae","Forests","Bird Hunter",2022,0.128,-80.932,40.275,2.236,0.273,2.873,0.25,2.304,0.316,3.947,0.341
+93,"Mourning Warbler","mouwar","Parulidae","Scrub","Foliage Gleaner",2022,0.133,-82.249,44.316,3.095,0.159,4.021,0.158,3.135,0.179,5.479,0.202
+94,"Swainson's Thrush","swathr","Turdidae","Forests","Ground Forager",2022,0.134,-82.83,39.213,2.607,0.288,3.27,0.256,2.616,0.333,4.318,0.358
+95,"Ruby-crowned Kinglet","ruckin","Regulidae","Forests","Foliage Gleaner",2022,0.138,-82.024,38.034,2.528,0.29,3.163,0.257,2.533,0.333,3.902,0.357
+96,"Hermit Thrush","herthr","Turdidae","Forests","Ground Forager",2022,0.138,-81.201,39.648,2.582,0.243,3.295,0.211,2.612,0.281,4.214,0.3
+97,"Dark-eyed Junco","daejun","Passerellidae","Forests","Ground Forager",2022,0.138,-82.549,40.897,2.613,0.269,3.335,0.252,2.659,0.311,4.557,0.347
+98,"Osprey","osprey","Accipitridae","Generalist","Fish Hunter",2022,0.139,-78.962,36.026,1.805,0.295,2.253,0.276,1.821,0.348,2.729,0.381
+99,"Evening Grosbeak","evegro","Fringillidae","Forests","Ground Forager",2022,0.14,-77.879,45.165,3.165,0.084,4.391,0.078,3.393,0.088,5.771,0.091
+100,"Red-breasted Nuthatch","rebnut","Sittidae","Forests","Bark Forager",2022,0.145,-79.616,42.581,2.722,0.179,3.642,0.168,2.871,0.205,4.966,0.229
+101,"Red-tailed Hawk","rethaw","Accipitridae","Grasslands","Mammal Hunter",2022,0.147,-83.094,38.838,2.55,0.314,3.18,0.281,2.548,0.366,4.123,0.394
+102,"Nashville Warbler","naswar","Parulidae","Forests","Foliage Gleaner",2022,0.148,-82.945,42.803,2.943,0.224,3.785,0.22,2.988,0.255,5.174,0.289
+103,"Sedge Wren","sedwre1","Troglodytidae","Grasslands","Ground Forager",2022,0.155,-88.143,39.188,3.016,0.279,3.714,0.276,2.883,0.321,4.63,0.369
+104,"Blackpoll Warbler","bkpwar","Parulidae","Forests","Foliage Gleaner",2022,0.158,-80.881,40.044,2.47,0.289,3.146,0.269,2.511,0.335,4.23,0.368
+105,"Tennessee Warbler","tenwar","Parulidae","Forests","Foliage Gleaner",2022,0.165,-84.747,39.225,2.725,0.297,3.391,0.263,2.716,0.347,4.502,0.373
+106,"Rusty Blackbird","rusbla","Icteridae","Forests","Ground Forager",2022,0.18,-85.88,39.988,2.742,0.319,3.428,0.304,2.735,0.37,4.527,0.414
+107,"Blue Grosbeak","blugrb1","Cardinalidae","Open Woodlands","Foliage Gleaner",2022,0.182,-83.873,34.644,2.512,0.36,2.954,0.287,2.359,0.428,3.092,0.439
+108,"Chipping Sparrow","chispa","Passerellidae","Open Woodlands","Ground Forager",2022,0.182,-82.817,36.303,2.59,0.316,3.137,0.272,2.543,0.363,3.552,0.384
+109,"Philadelphia Vireo","phivir","Vireonidae","Forests","Foliage Gleaner",2022,0.19,-83.215,39.729,2.669,0.29,3.416,0.255,2.738,0.337,4.568,0.363
+110,"Black-capped Chickadee","bkcchi","Paridae","Forests","Foliage Gleaner",2022,0.19,-79.566,43.818,2.806,0.195,3.81,0.194,3.007,0.22,5.248,0.251
+111,"Yellow-rumped Warbler","yerwar","Parulidae","Forests","Foliage Gleaner",2022,0.191,-82.185,37.463,2.488,0.295,3.085,0.27,2.446,0.341,3.764,0.373
+112,"Mourning Dove","moudov","Columbidae","Urban","Ground Forager",2022,0.191,-83.049,37.687,2.608,0.32,3.22,0.286,2.587,0.376,3.961,0.406
+113,"Cooper's Hawk","coohaw","Accipitridae","Forests","Bird Hunter",2022,0.198,-82.227,38.701,2.459,0.341,3.066,0.317,2.471,0.398,3.975,0.436
+114,"Purple Martin","purmar","Hirundinidae","Riparian","Aerial Insectivore",2022,0.2,-83.772,35.56,2.42,0.357,2.875,0.29,2.296,0.453,3.106,0.466
+115,"Northern Flicker","norfli","Picidae","Forests","Bark Forager",2022,0.201,-82.509,38.869,2.539,0.301,3.156,0.268,2.525,0.351,4.001,0.38
+116,"Northern Bobwhite","norbob","Phasianidae","Grasslands","Ground Forager",2022,0.203,-84.613,34.12,2.666,0.337,3.172,0.288,2.624,0.388,3.613,0.406
+117,"Northern Rough-winged Swallow","nrwswa","Hirundinidae","Riparian","Aerial Insectivore",2022,0.208,-85.535,36.093,2.615,0.367,3.129,0.331,2.561,0.429,3.862,0.463
+118,"Orchard Oriole","orcori","Icteridae","Open Woodlands","Foliage Gleaner",2022,0.21,-84.391,36.501,2.599,0.351,3.1,0.295,2.459,0.412,3.597,0.433
+119,"Hairy Woodpecker","haiwoo","Picidae","Forests","Bark Forager",2022,0.212,-81.903,40.955,2.669,0.264,3.437,0.24,2.73,0.307,4.59,0.336
+120,"Northern Mockingbird","normoc","Mimidae","Open Woodlands","Ground Forager",2022,0.214,-83.402,33.863,2.422,0.38,2.868,0.315,2.317,0.451,3.045,0.463
+121,"Willow Flycatcher","wilfly","Tyrannidae","Marshes","Flycatcher",2022,0.22,-82.71,41.39,2.821,0.368,3.554,0.368,2.852,0.422,4.749,0.484
+122,"Brown-headed Cowbird","bnhcow","Icteridae","Open Woodlands","Ground Forager",2022,0.221,-85.021,36.94,2.678,0.345,3.181,0.316,2.599,0.402,3.841,0.44
+123,"Winter Wren","winwre3","Troglodytidae","Forests","Ground Forager",2022,0.243,-80.77,39.93,2.585,0.236,3.324,0.2,2.634,0.275,4.329,0.291
+124,"Belted Kingfisher","belkin1","Alcedinidae","Riparian","Fish Hunter",2022,0.246,-82.2,38.066,2.522,0.298,3.185,0.265,2.548,0.349,4.025,0.376
+125,"Brown Creeper","brncre","Certhiidae","Forests","Bark Forager",2022,0.251,-81.374,40.797,2.609,0.252,3.347,0.231,2.665,0.292,4.539,0.321
+126,"Golden-crowned Kinglet","gockin","Regulidae","Forests","Foliage Gleaner",2022,0.253,-82.496,39.58,2.66,0.27,3.337,0.239,2.659,0.312,4.297,0.338
+127,"Magnolia Warbler","magwar","Parulidae","Forests","Foliage Gleaner",2022,0.255,-82.443,39.38,2.647,0.284,3.372,0.245,2.692,0.332,4.375,0.353
+128,"Red-winged Blackbird","rewbla","Icteridae","Open Woodlands","Ground Forager",2022,0.256,-83.568,37.202,2.598,0.364,3.154,0.336,2.518,0.431,3.702,0.477
+129,"Bicknell's Thrush","bicthr","Turdidae","Forests","Ground Forager",2022,0.258,-72.161,44.341,4.545,0.016,6.143,0.016,4.853,0.016,8.575,0.016
+130,"Canada Warbler","canwar","Parulidae","Forests","Foliage Gleaner",2022,0.26,-79.219,42.267,2.642,0.207,3.571,0.205,2.831,0.235,4.926,0.265
+131,"Purple Finch","purfin","Fringillidae","Forests","Foliage Gleaner",2022,0.268,-80.031,40.998,2.62,0.233,3.463,0.204,2.74,0.269,4.561,0.287
+132,"Cape May Warbler","camwar","Parulidae","Forests","Foliage Gleaner",2022,0.271,-80.572,39.779,2.408,0.274,3.081,0.239,2.464,0.319,4.134,0.336
+133,"Yellow-breasted Chat","yebcha","Icteriidae","Scrub","Foliage Gleaner",2022,0.272,-85.547,35.21,2.655,0.32,3.113,0.239,2.471,0.375,3.564,0.378
+134,"Black-and-White Warbler","bawwar","Parulidae","Forests","Bark Forager",2022,0.279,-80.746,39.44,2.36,0.243,3.045,0.218,2.443,0.28,4.137,0.304
+135,"Boat-tailed Grackle","botgra","Icteridae","Marshes","Ground Forager",2022,0.293,-80.738,28.29,1.886,0.33,2.201,0.308,1.914,0.414,2.732,0.458
+136,"Blackburnian Warbler","bkbwar","Parulidae","Forests","Foliage Gleaner",2022,0.295,-80.517,41.327,2.644,0.217,3.475,0.199,2.776,0.249,4.862,0.271
+137,"Summer Tanager","sumtan","Cardinalidae","Open Woodlands","Foliage Gleaner",2022,0.295,-84.952,34.404,2.603,0.323,3.033,0.247,2.433,0.378,3.27,0.386
+138,"White-throated Sparrow","whtspa","Passerellidae","Forests","Ground Forager",2022,0.303,-81.697,39.462,2.395,0.323,3.044,0.292,2.425,0.379,4.001,0.414
+139,"Wild Turkey","wiltur","Phasianidae","Open Woodlands","Ground Forager",2022,0.303,-82.166,40.164,2.642,0.274,3.429,0.241,2.746,0.321,4.487,0.347
+140,"Cedar Waxwing","cedwax","Bombycillidae","Open Woodlands","Foliage Gleaner",2022,0.303,-82.785,38.256,2.56,0.31,3.197,0.272,2.56,0.359,4.043,0.382
+141,"Eastern Meadowlark","easmea","Icteridae","Grasslands","Ground Forager",2022,0.304,-84.557,36.054,2.646,0.37,3.18,0.305,2.577,0.447,3.752,0.465
+142,"Baltimore Oriole","balori","Icteridae","Open Woodlands","Foliage Gleaner",2022,0.304,-83.245,41.057,2.703,0.325,3.425,0.32,2.742,0.376,4.591,0.43
+143,"American Crow","amecro","Corvidae","Generalist","Generalist",2022,0.305,-81.391,39.541,2.509,0.334,3.214,0.306,2.576,0.387,4.304,0.422
+144,"American Redstart","amered","Parulidae","Forests","Foliage Gleaner",2022,0.305,-82.45,39.537,2.532,0.271,3.211,0.248,2.571,0.314,4.23,0.343
+145,"Common Yellowthroat","comyel","Parulidae","Scrub","Foliage Gleaner",2022,0.322,-81.89,39.514,2.622,0.279,3.358,0.256,2.676,0.324,4.401,0.357
+146,"American Robin","amerob","Turdidae","Generalist","Ground Forager",2022,0.323,-83.77,37.116,2.769,0.343,3.376,0.278,2.676,0.411,3.801,0.426
+147,"Yellow-bellied Sapsucker","yebsap","Picidae","Forests","Bark Forager",2022,0.325,-81.381,39.817,2.647,0.236,3.408,0.206,2.702,0.271,4.434,0.288
+148,"Blue-headed Vireo","buhvir","Vireonidae","Forests","Foliage Gleaner",2022,0.33,-79.849,39.312,2.51,0.216,3.293,0.193,2.639,0.245,4.402,0.262
+149,"Yellow-billed Cuckoo","yebcuc","Cuculidae","Forests","Foliage Gleaner",2022,0.332,-83.684,36.762,2.551,0.314,3.074,0.26,2.449,0.368,3.724,0.389
+150,"Bay-breasted Warbler","babwar","Parulidae","Forests","Foliage Gleaner",2022,0.338,-81.979,39.873,2.61,0.284,3.346,0.256,2.692,0.333,4.525,0.359
+151,"Blue-gray Gnatcatcher","buggna","Polioptilidae","Forests","Foliage Gleaner",2022,0.338,-83.436,35.584,2.43,0.34,2.907,0.288,2.357,0.402,3.471,0.429
+152,"Red-eyed Vireo","reevir1","Vireonidae","Forests","Foliage Gleaner",2022,0.342,-81.558,39.602,2.552,0.228,3.266,0.193,2.609,0.262,4.382,0.278
+153,"Seaside Sparrow","seaspa","Passerellidae","Marshes","Ground Forager",2022,0.345,-77.681,36.047,1.724,0.244,1.981,0.175,1.46,0.346,1.737,0.294
+154,"Henslow's Sparrow","henspa","Passerellidae","Grasslands","Ground Forager",2022,0.356,-86.367,39.696,3.214,0.343,3.91,0.307,3.081,0.394,4.937,0.423
+155,"American Goldfinch","amegfi","Fringillidae","Open Woodlands","Foliage Gleaner",2022,0.363,-82.916,39.286,2.657,0.289,3.332,0.26,2.664,0.334,4.298,0.362
+156,"Ovenbird","ovenbi1","Parulidae","Forests","Ground Forager",2022,0.364,-79.478,41.453,2.501,0.177,3.329,0.16,2.649,0.202,4.726,0.222
+157,"Red-headed Woodpecker","rehwoo","Picidae","Forests","Bark Forager",2022,0.367,-84.92,36.139,2.756,0.314,3.252,0.265,2.606,0.363,3.798,0.384
+158,"Bobolink","boboli","Icteridae","Grasslands","Ground Forager",2022,0.37,-80.577,34.598,2.191,0.336,2.672,0.31,2.2,0.408,3.501,0.46
+159,"Song Sparrow","sonspa","Passerellidae","Open Woodlands","Ground Forager",2022,0.373,-81.79,39.326,2.476,0.328,3.116,0.293,2.495,0.386,4.032,0.418
+160,"Palm Warbler","palwar","Parulidae","Open Woodlands","Ground Forager",2022,0.378,-82.82,36.259,2.396,0.321,2.945,0.295,2.406,0.377,3.747,0.411
+161,"Chestnut-sided Warbler","chswar","Parulidae","Open Woodlands","Foliage Gleaner",2022,0.384,-81.549,41.041,2.646,0.23,3.455,0.207,2.758,0.262,4.817,0.282
+162,"Veery","veery","Turdidae","Forests","Ground Forager",2022,0.389,-79.513,41.533,2.498,0.215,3.358,0.202,2.665,0.245,4.691,0.274
+163,"Swamp Sparrow","swaspa","Passerellidae","Marshes","Ground Forager",2022,0.392,-83.609,38.135,2.622,0.313,3.229,0.281,2.569,0.366,4.055,0.398
+164,"Black-throated Green Warbler","btnwar","Parulidae","Forests","Foliage Gleaner",2022,0.397,-80.812,40.77,2.592,0.211,3.371,0.19,2.693,0.242,4.692,0.261
+165,"Rose-breasted Grosbeak","robgro","Cardinalidae","Forests","Foliage Gleaner",2022,0.411,-84.239,40.013,2.773,0.289,3.477,0.261,2.773,0.336,4.544,0.367
+166,"Common Nighthawk","bkbcuc","Caprimulgidae","Open Woodlands","Aerial Insectivore",2022,0.417,-80.972,42.913,2.706,0.242,3.548,0.233,2.81,0.276,4.933,0.309
+167,"Black-billed Cuckoo","bkbcuc","Cuculidae","Forests","Foliage Gleaner",2022,0.417,-80.972,42.913,2.706,0.242,3.548,0.233,2.81,0.276,4.933,0.309
+168,"Golden-winged Warbler","gowwar","Parulidae","Open Woodlands","Foliage Gleaner",2022,0.438,-87.792,41.197,2.941,0.261,3.65,0.236,2.897,0.3,5.135,0.331
+169,"Black-throated Blue Warbler","btbwar","Parulidae","Forests","Foliage Gleaner",2022,0.443,-77.404,40.385,2.333,0.212,3.163,0.193,2.53,0.244,4.355,0.263
+170,"Ruby-throated Hummingbird","rthhum","Trochilidae","Open Woodlands","Nectar Feeder",2022,0.454,-84.102,37.742,2.665,0.3,3.269,0.254,2.61,0.35,4.107,0.37
+171,"Eastern Wood-pewee","eawpew","Tyrannidae","Forests","Flycatcher",2022,0.454,-83.511,38.925,2.631,0.304,3.266,0.27,2.62,0.355,4.217,0.386
+172,"Barred Owl","brdowl","Strigidae","Forests","Mammal Hunter",2022,0.461,-83.055,38.435,2.592,0.239,3.252,0.204,2.611,0.276,4.325,0.297
+173,"Downy Woodpecker","dowwoo","Picidae","Forests","Bark Forager",2022,0.463,-83.017,38.576,2.6,0.316,3.228,0.285,2.593,0.368,4.137,0.401
+174,"Prothonotary Warbler","prowar","Parulidae","Forests","Foliage Gleaner",2022,0.466,-84.129,34.501,2.693,0.28,3.186,0.247,2.462,0.333,3.368,0.375
+175,"Brown Thrasher","brnthr","Mimidae","Scrub","Ground Forager",2022,0.466,-84.16,36.571,2.626,0.341,3.146,0.284,2.52,0.399,3.683,0.415
+176,"Indigo Bunting","indbun","Cardinalidae","Open Woodlands","Foliage Gleaner",2022,0.476,-84.99,37.248,2.699,0.32,3.261,0.272,2.596,0.376,4.077,0.4
+177,"Louisiana Waterthrush","louwat","Parulidae","Riparian","Ground Forager",2022,0.477,-82.262,37.001,2.267,0.261,2.779,0.196,2.257,0.305,3.621,0.316
+178,"Eastern Whip-poor-will","easwpw1","Caprimulgidae","Open Woodlands","Aerial Insectivore",2022,0.478,-82.339,39.728,2.597,0.187,3.161,0.145,2.498,0.213,4.095,0.223
+179,"Pileated Woodpecker","pilwoo","Picidae","Forests","Bark Forager",2022,0.482,-82.567,37.012,2.522,0.276,3.128,0.228,2.508,0.321,3.851,0.338
+180,"Blue Jay","blujay","Corvidae","Forests","Generalist",2022,0.487,-82.193,39.405,2.527,0.302,3.183,0.267,2.546,0.353,4.184,0.38
+181,"White-breasted Nuthatch","whbnut","Sittidae","Forests","Bark Forager",2022,0.488,-82.369,40.267,2.584,0.297,3.273,0.272,2.631,0.346,4.446,0.382
+182,"Northern Parula","norpar","Parulidae","Forests","Foliage Gleaner",2022,0.493,-81.913,36.521,2.411,0.281,3,0.24,2.407,0.325,3.677,0.347
+183,"Kentucky Warbler","kenwar","Parulidae","Forests","Ground Forager",2022,0.505,-85.88,35.693,2.649,0.288,3.13,0.203,2.505,0.334,3.786,0.335
+184,"Northern Cardinal","norcar","Cardinalidae","Open Woodlands","Ground Forager",2022,0.505,-83.729,36.558,2.544,0.357,3.071,0.307,2.472,0.42,3.702,0.445
+185,"Yellow-throated Vireo","yetvir","Vireonidae","Open Woodlands","Foliage Gleaner",2022,0.516,-83.884,37.271,2.514,0.299,3.077,0.25,2.484,0.346,3.855,0.367
+186,"Eastern Phoebe","easpho","Tyrannidae","Open Woodlands","Flycatcher",2022,0.517,-82.148,36.76,2.402,0.307,2.974,0.261,2.399,0.356,3.674,0.374
+187,"Field Sparrow","fiespa","Passerellidae","Grasslands","Ground Forager",2022,0.53,-83.489,38.213,2.626,0.353,3.201,0.298,2.577,0.422,4.012,0.445
+188,"Gray Catbird","grycat","Mimidae","Open Woodlands","Ground Forager",2022,0.534,-81.476,38.163,2.394,0.323,3.018,0.308,2.42,0.376,3.935,0.42
+189,"White-eyed Vireo","whevir","Vireonidae","Scrub","Foliage Gleaner",2022,0.544,-84.632,33.729,2.537,0.312,2.979,0.245,2.41,0.363,3.283,0.373
+190,"Great Crested Flycatcher","grcfly","Tyrannidae","Open Woodlands","Flycatcher",2022,0.549,-82.986,36.375,2.542,0.32,3.105,0.284,2.5,0.372,3.635,0.402
+191,"Eastern Screech-Owl","easowl1","Strigidae","Forests","Mammal Hunter",2022,0.551,-82.359,37.796,2.371,0.326,2.957,0.288,2.384,0.382,3.817,0.411
+192,"Chuck-will's-widow","chwwid","Caprimulgidae","Open Woodlands","Aerial Insectivore",2022,0.559,-83.613,32.9,2.495,0.272,2.924,0.203,2.343,0.318,2.97,0.323
+193,"Eastern Bluebird","easblu","Turdidae","Grasslands","Ground Forager",2022,0.563,-82.69,37.29,2.446,0.35,2.987,0.294,2.392,0.414,3.595,0.436
+194,"Common Grackle","comgra","Icteridae","Generalist","Ground Forager",2022,0.585,-81.65,37.974,2.312,0.358,2.786,0.319,2.2,0.443,3.3,0.489
+195,"Scarlet Tanager","scatan","Cardinalidae","Forests","Foliage Gleaner",2022,0.59,-81.588,39.267,2.438,0.267,3.101,0.228,2.501,0.309,4.174,0.329
+196,"Red-shouldered Hawk","reshaw","Accipitridae","Forests","Mammal Hunter",2022,0.594,-82.817,35.121,2.378,0.336,2.863,0.285,2.327,0.396,3.397,0.419
+197,"Yellow-throated Warbler","yetwar","Parulidae","Forests","Bark Forager",2022,0.625,-83.365,34.936,2.35,0.275,2.781,0.218,2.262,0.32,3.271,0.336
+198,"Hooded Warbler","hoowar","Parulidae","Forests","Foliage Gleaner",2022,0.635,-83.658,35.748,2.451,0.226,2.925,0.171,2.327,0.253,3.545,0.255
+199,"Carolina Chickadee","carchi","Paridae","Forests","Foliage Gleaner",2022,0.642,-83.573,35.772,2.406,0.338,2.862,0.268,2.3,0.403,3.355,0.415
+200,"Worm-eating Warbler","woewar1","Parulidae","Forests","Ground Forager",2022,0.649,-82.098,36.624,2.121,0.228,2.62,0.185,2.123,0.26,3.408,0.274
+201,"Red-bellied Woodpecker","rebwoo","Picidae","Forests","Bark Forager",2022,0.66,-83.62,36.348,2.528,0.344,3.05,0.297,2.452,0.404,3.677,0.431
+202,"Prairie Warbler","prawar","Parulidae","Scrub","Foliage Gleaner",2022,0.661,-82.361,35.306,2.293,0.29,2.741,0.227,2.206,0.341,3.163,0.355
+203,"Cerulean Warbler","cerwar","Parulidae","Forests","Foliage Gleaner",2022,0.667,-82.232,38.54,2.196,0.146,2.769,0.115,2.271,0.166,4.031,0.176
+204,"Acadian Flycatcher","acafly","Tyrannidae","Forests","Flycatcher",2022,0.686,-83.647,36.453,2.531,0.296,3.029,0.234,2.434,0.346,3.672,0.363
+205,"Pine Warbler","pinwar","Parulidae","Forests","Bark Forager",2022,0.69,-82.162,35.22,2.4,0.278,2.884,0.234,2.321,0.32,3.229,0.338
+206,"Carolina Wren","carwre","Troglodytidae","Open Woodlands","Ground Forager",2022,0.697,-83.047,35.183,2.316,0.349,2.751,0.28,2.223,0.413,3.133,0.425
+207,"Red-cockaded Woodpecker","recwoo","Picidae","Open Woodlands","Bark Forager",2022,0.712,-82.532,31.923,2.852,0.099,3.464,0.088,2.742,0.109,3.054,0.121
+208,"Swainson's Warbler","swawar","Parulidae","Forests","Ground Forager",2022,0.713,-85.248,33.667,2.459,0.21,2.85,0.16,2.315,0.229,3.24,0.231
+209,"Blue-winged Warbler","buwwar","Parulidae","Open Woodlands","Foliage Gleaner",2022,0.715,-82.363,39.979,2.418,0.313,3.063,0.294,2.469,0.369,4.159,0.417
+210,"Tufted Titmouse","tuftit","Paridae","Forests","Foliage Gleaner",2022,0.722,-82.91,36.566,2.399,0.329,2.914,0.273,2.357,0.387,3.592,0.407
+211,"Wood Thrush","woothr","Turdidae","Forests","Ground Forager",2022,0.728,-82.131,38.862,2.509,0.29,3.159,0.25,2.537,0.338,4.176,0.363
+212,"Fish Crow","fiscro","Corvidae","Riparian","Generalist",2022,0.796,-80.777,33.257,2.05,0.389,2.401,0.372,1.932,0.456,2.584,0.492
+213,"Chimney Swift","chiswi","Apodidae","Urban","Aerial Insectivore",2022,0.831,-82.686,36.623,2.151,0.417,2.558,0.35,2.065,0.5,3.077,0.512
+214,"Eastern Towhee","eastow","Passerellidae","Scrub","Ground Forager",2022,0.854,-82.632,37.175,2.503,0.299,3.088,0.251,2.5,0.352,3.856,0.371
+215,"Brown-headed Nuthatch","bnhnut","Sittidae","Forests","Bark Forager",2022,0.875,-83.141,33.053,2.545,0.302,2.934,0.245,2.356,0.343,2.671,0.351
+216,"Bachman's Sparrow","bacspa","Passerellidae","Open Woodlands","Ground Forager",2022,0.935,-82.545,30.619,2.41,0.205,2.893,0.189,2.483,0.244,2.944,0.27
+217,"Saltmarsh Sparrow","sstspa","Passerellidae","Marshes","Ground Forager",2022,0.987,-74.115,39.112,1.144,0.203,1.352,0.195,1.028,0.263,1.426,0.276
+218,"Florida Scrub-Jay","flsjay","Corvidae","Scrub","Ground Forager",2022,1,-81.623,28.554,1.712,0.261,2.199,0.235,1.935,0.31,2.751,0.332

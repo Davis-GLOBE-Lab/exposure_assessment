@@ -1,0 +1,27 @@
+"Scenario","Structure","k","logLik","delta_AIC","weight","R2","R_squared"
+"SSP2 2050","habitat+lat+long",13,302.11,0,0.38,0.57,0.57
+"SSP2 2050","guild+lat+long",12,300.36,1.5,0.18,0.56,0.56
+"SSP2 2050","order+habitat+lat+long",14,302.11,2,0.14,0.57,0.57
+"SSP2 2050","lat+long",6,293.93,2.36,0.12,0.53,0.53
+"SSP2 2050","guild+order+lat+long",13,300.79,2.65,0.1,0.56,0.56
+"SSP2 2050","order+lat+long",7,293.94,4.35,0.04,0.53,0.53
+"SSP2 2050","guild+habitat+lat+long",19,305.39,5.45,0.02,0.58,0.58
+"SSP2 2050","guild+order+habitat+lat+long",20,305.72,6.78,0.01,0.58,0.58
+"SSP2 2080","habitat+lat+long",13,258.62,0,0.39,0.55,0.55
+"SSP2 2080","guild+lat+long",12,256.96,1.33,0.2,0.55,0.55
+"SSP2 2080","order+habitat+lat+long",14,258.63,1.98,0.15,0.55,0.55
+"SSP2 2080","lat+long",6,250.25,2.73,0.1,0.52,0.52
+"SSP2 2080","guild+order+lat+long",13,257.12,3.01,0.09,0.55,0.55
+"SSP2 2080","order+lat+long",7,250.29,4.65,0.04,0.52,0.52
+"SSP2 2080","guild+habitat+lat+long",19,261.8,5.65,0.02,0.57,0.57
+"SSP5 2050","habitat+lat+long",13,307.3,0,0.66,0.5,0.5
+"SSP5 2050","order+habitat+lat+long",14,307.31,1.99,0.24,0.5,0.5
+"SSP5 2050","guild+lat+long",12,303.17,6.26,0.03,0.48,0.48
+"SSP5 2050","guild+habitat+lat+long",19,310.17,6.27,0.03,0.51,0.51
+"SSP5 2080","habitat+lat+long",13,241.11,0,0.42,0.54,0.54
+"SSP5 2080","guild+lat+long",12,239.3,1.62,0.19,0.53,0.53
+"SSP5 2080","order+habitat+lat+long",14,241.17,1.88,0.17,0.54,0.54
+"SSP5 2080","lat+long",6,232.52,3.17,0.09,0.5,0.5
+"SSP5 2080","guild+order+lat+long",13,239.32,3.57,0.07,0.53,0.53
+"SSP5 2080","order+lat+long",7,232.62,4.98,0.04,0.5,0.5
+"SSP5 2080","guild+habitat+lat+long",19,244.02,6.18,0.02,0.55,0.55
