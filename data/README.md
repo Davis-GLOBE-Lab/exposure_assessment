@@ -23,5 +23,3 @@ Community-level (inclusive of all landbird species) exposure maps were calculate
 ## Species-level Exposure Maps (output)
 Species-level exposure maps for each specieswere calculated for each emissions scenario and time step combination. CEI exposure maps can be found in **species_climate_impact_maps.zip** and LEI exposure maps can be found in **species_LULC_impact_maps.zip**. These zip files each include 872 maps: 218 species x 2 socio-economic pathways x 2 time steps. 
 
-## Table S1 (output)
-Table S1 in supplemental information is included in this folder at TableS1.csv. It includes all the information from the species_list.csv as well as the calculated values for CEI and LEI for each time step and emissions scenario. 
